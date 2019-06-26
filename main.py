@@ -5,8 +5,6 @@ import vk
 import requests
 import json
 import time
-from PyQt5 import QtWidgets
-from GUI import *
 
 k = 0
 info = {'Post': ' ', 'Title': ' ', 'Img': ' '}
